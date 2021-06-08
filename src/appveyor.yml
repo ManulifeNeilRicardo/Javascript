@@ -13,4 +13,4 @@ test_script:
    - npm test
 
 
-build: Script
+build: off
